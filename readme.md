@@ -20,6 +20,6 @@ colorscheme sunset
 
 ## Related
 
-- [sunset-iterm2]: Same colors, on iterm2.
+- [sunset-iterm2](https://github.com/pablopunk/sunset-iterm2): Same colors, on iterm2.
 - [vimcolors.org](https://vimcolors.org): The tool I used to generate this scheme.
 - [sick.vim](https://github.com/pablopunk/sick.vim): A sick colorscheme for vim.
