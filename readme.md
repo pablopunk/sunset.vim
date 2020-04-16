@@ -1,6 +1,8 @@
 # sunset.vim
 
-![screenshot](https://github.com/pablopunk/art/raw/master/sunset/vim.png)
+<p align="center">
+  <img src="https://github.com/pablopunk/art/raw/master/sunset/vim.png" />
+</p>
 
 ## Install
 
