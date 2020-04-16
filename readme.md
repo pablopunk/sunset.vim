@@ -11,3 +11,8 @@ Plug 'pablopunk/sunset.vim'
 
 colorscheme sunset
 ```
+
+## Related
+
+- [vimcolors.org](https://vimcolors.org): The tool I used to generate this scheme.
+- [sick.vim](https://github.com/pablopunk/sick.vim): A sick colorscheme for vim.
