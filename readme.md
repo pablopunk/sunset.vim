@@ -1,6 +1,10 @@
 # sunset.vim
 
 <p align="center">
+  <img src="https://github.com/pablopunk/art/raw/master/sunset/sunset.jpg" width="400" />
+</p>
+
+<p align="center">
   <img src="https://github.com/pablopunk/art/raw/master/sunset/vim.png" />
 </p>
 
